@@ -1,6 +1,6 @@
 ## Tata Internship Project
 
-Welcome to the Tata Internship Project repository! 🚀
+Welcome to the Tata Internship Project repository! 
 This repository contains the files and deliverables from my Tata Motors / Tata Internship where I completed real-world tasks, built dashboards, and presented data-driven insights.
 
 Overview
@@ -52,17 +52,6 @@ A Power BI dashboard containing interactive visuals.
 A presentation transcript explaining insights and recommendations.
 
 A structured approach to presenting data to business stakeholders.
-
-
-Skills & Tools Used
-
-Microsoft Power BI – Data visualization
-
-Data Analysis – Interpreting business metrics
-
-Communication – Storytelling with data
-
-Problem Framing – Translating business needs into analytical tasks
 
 
  How to Use This Repo
